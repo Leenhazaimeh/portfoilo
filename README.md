@@ -1,2 +1,0 @@
-# portfoilo
-Joprogrammer
